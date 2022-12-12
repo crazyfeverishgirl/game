@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+ul{
+    background-color: black;
+    color: white;
+    width: 344px;
+    height: 344px;
+}
+
+.main{
+    color: red;
+}
